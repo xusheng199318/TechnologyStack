@@ -1,11 +1,11 @@
 | 1 | 2 | 3 | 4 | 5 | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | 
-| [MyBatis](Mybatis) | [Spring](#Spring) | [SpringMVC](#SpringMVC) | [多线程](#多线程) | [JVM](#JVM) |
+| [MyBatis](Mybatis框架) | [Spring](#Spring框架) | [SpringMVC](#SpringMVC框架) | [多线程](#多线程) | [JVM](#JAVA虚拟机) |
 | [数据库](#数据库) | [数据结构](#数据结构) | [设计模式](#设计模式) | [网络](#网络) | [操作系统](#操作系统) |
 
 
 
-## Mybatis
+## Mybatis框架
 
 基础应用
 
@@ -13,7 +13,7 @@
 
 执行原理
 
-## Spring
+## Spring框架
 
 IOC
 
@@ -25,7 +25,7 @@ AOP
 
 源码
 
-## SpringMVC
+## SpringMVC框架
 
 基本注解和原理
 
@@ -35,7 +35,7 @@ AOP
 
 线程间通信方式
 
-## JVM
+## JAVA虚拟机
 
 运行时数据区
 
