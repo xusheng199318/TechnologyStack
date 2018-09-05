@@ -1,11 +1,11 @@
 | 1 | 2 | 3 | 4 | 5 | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | 
-| [MyBatis](#关系对象映射框架) | [Spring](#Spring框架) | [SpringMVC](#SpringMVC框架) | [多线程](#多线程) | [JVM](#jvm) |
+| [MyBatis](#mybatis) | [Spring](#spring) | [SpringMVC](#springMVC框架) | [多线程](#多线程) | [JVM](#jvm) |
 | [数据库](#数据库) | [数据结构](#数据结构) | [设计模式](#设计模式) | [网络](#网络) | [操作系统](#操作系统) |
 
 
 
-## 关系对象映射框架
+## mybatis
 
 基础应用
 
@@ -13,7 +13,7 @@
 
 执行原理
 
-## Spring框架
+## spring
 
 IOC
 
@@ -25,7 +25,7 @@ AOP
 
 源码
 
-## SpringMVC框架
+## springMVC
 
 基本注解和原理
 
