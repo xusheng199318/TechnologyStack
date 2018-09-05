@@ -1,6 +1,6 @@
 | 1 | 2 | 3 | 4 | 5 | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | 
-| [MyBatis](#mybatis) | [Spring](#spring) | [SpringMVC](#springMVC框架) | [多线程](#多线程) | [JVM](#jvm) |
+| [MyBatis](#mybatis) | [Spring](#spring) | [SpringMVC](#springMVC) | [多线程](#多线程) | [JVM](#jvm) |
 | [数据库](#数据库) | [数据结构](#数据结构) | [设计模式](#设计模式) | [网络](#网络) | [操作系统](#操作系统) |
 
 
