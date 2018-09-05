@@ -1,11 +1,11 @@
 | 1 | 2 | 3 | 4 | 5 | 
 | :--------: | :---------: | :---------: | :---------: | :---------: | 
-| [MyBatis框架](Mybatis框架) | [Spring](#Spring框架) | [SpringMVC](#SpringMVC框架) | [多线程](#多线程) | [JVM](#JAVA虚拟机) |
+| [MyBatis](#Mybatis) | [Spring](#Spring框架) | [SpringMVC](#SpringMVC框架) | [多线程](#多线程) | [JVM](#JAVA虚拟机) |
 | [数据库](#数据库) | [数据结构](#数据结构) | [设计模式](#设计模式) | [网络](#网络) | [操作系统](#操作系统) |
 
 
 
-## Mybatis框架
+## Mybatis
 
 基础应用
 
